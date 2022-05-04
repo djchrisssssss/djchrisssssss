@@ -1,13 +1,13 @@
-### Hi I am Kriss 👋!
+<center>### Hi I am Kriss 👋!</center>
 
-🦪 Founder of @Scallop_io
-👨‍💻 Security Engineer
+<center>🦪 Founder of @Scallop_io</center>
+<center>👨‍💻 Security Engineer</center>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=djchrisssssss&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djchrisssssss&theme=tokyonight&layout=compact)
+<center>![Github stats](https://github-readme-stats.vercel.app/api?username=djchrisssssss&show_icons=true&theme=tokyonight)</center>
+<center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djchrisssssss&theme=tokyonight&layout=compact)</center>
 
-## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-kriss@scallop.io-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:kriss@scallop.io)](kriss@scallop.io)
+<center>## Contact me : 
+<center>📫 [![Gmail Badge](https://img.shields.io/badge/-kriss@scallop.io-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:kriss@scallop.io)](kriss@scallop.io)</center>
 <!--
 **djchrisssssss/djchrisssssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
