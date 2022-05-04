@@ -1,4 +1,4 @@
-<p align="center">### Hi I am Kriss 👋!
+### Hi I am Kriss 👋!
 
 🦪 Founder of @Scallop_io
 👨‍💻 Security Engineer
