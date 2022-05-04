@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djchrisssssss&theme=tokyonight&layout=compact)
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-kriss@scallop.io-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:kriss@scallop.io)]</center>
+[![Gmail Badge](https://img.shields.io/badge/-kriss@scallop.io-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:kriss@scallop.io)]</center>
 <!--
 **djchrisssssss/djchrisssssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
