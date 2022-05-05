@@ -1,7 +1,6 @@
 ### Hi I am Kriss 👋!
 
-🦪 Founder of @Scallop_io
-👨‍💻 Security Engineer
+👨‍💻 Security engineer, Full stack developer.
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=djchrisssssss&show_icons=true&theme=tokyonight) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djchrisssssss&theme=tokyonight&layout=compact)
