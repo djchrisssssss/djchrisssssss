@@ -1,6 +1,6 @@
 ### Hi I am Kriss 👋!
 
-Security engineer, Full stack developer 👨‍💻.
+Security/Web3 Eng. 👨‍💻
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=djchrisssssss&show_icons=true&theme=tokyonight) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djchrisssssss&theme=tokyonight&layout=compact)
