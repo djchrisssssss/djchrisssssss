@@ -43,7 +43,7 @@ Building capital-efficient, zero-trust, on-chain financial systems on **Sui**.
 
 ### 🌐 **Links**
 [![Website](https://img.shields.io/badge/Scallop.io-011829?style=flat&logo=google-chrome&logoColor=white)](https://scallop.io)
-[![X](https://img.shields.io/badge/@djkriss-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/djchrisssssss)
+[![X](https://img.shields.io/badge/@djchrisssssss-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/djchrisssssss)
 [![Email](https://img.shields.io/badge/kriss%40scallop.io-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kriss@scallop.io)
 
 ---
