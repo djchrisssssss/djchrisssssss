@@ -11,7 +11,7 @@ Building capital-efficient, zero-trust, on-chain financial systems on **Sui**.
 - **DeFi protocol architecture** — separated collateral/lending risk engine, sCoins, sub-accounts  
 - **Security engineering** — threat modeling, protocol security, formal logic  
 - **AI × cryptography** — LLM agents, autonomous tooling, cryptographic primitives  
-- **Physics × computation research** — quantum logic, structural communication models
+- **Physics × computation x consciousness research** — quantum logic, structural communication models
 
 ---
 
@@ -35,7 +35,7 @@ Building capital-efficient, zero-trust, on-chain financial systems on **Sui**.
 ---
 
 ### 📦 **Projects**
-- **Scallop** — next-gen money market on Sui  
+- **Scallop** — next-gen money market powered by Sui  
 - **Interdimensional Communication Theory** — research across physics, cognition, and information structures  
 
 
