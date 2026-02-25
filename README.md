@@ -1,23 +1,25 @@
 <!-- Banner -->
 
 ### 👨‍💻 **About**
-Founder & CEO of **Scallop**  
-Security Engineering · Web3 Infrastructure · System Architecture  
+Founder & CEO of **Scallop**
+Security Engineering · Web3 Infrastructure · System Architecture · Astrophysics Research
 Building capital-efficient, zero-trust, on-chain financial systems on **Sui**.
+Exploring cosmic life diffusion, civilization evolution, and structural models of consciousness.
 
 ---
 
 ### 🧩 **Work Focus**
-- **DeFi protocol architecture** — separated collateral/lending risk engine, sCoins, sub-accounts  
-- **Security engineering** — threat modeling, protocol security, formal logic  
-- **AI × cryptography** — LLM agents, autonomous tooling, cryptographic primitives  
-- **Physics × computation x consciousness research** — quantum logic, structural communication models
+- **DeFi protocol architecture** — separated collateral/lending risk engine, sCoins, sub-accounts
+- **Security engineering** — threat modeling, protocol security, formal logic
+- **AI research & automation** — LLM agents, autonomous tooling, AI-assisted development pipelines
+- **Astrophysics & cosmology** — cosmic life diffusion models, civilization evolution thresholds, extraterrestrial phenomenon classification
+- **Interdimensional communication theory** — structural models of consciousness, quantum field resonance, CPRR framework
 
 ---
 
 ### ⚙️ **Engineering Domains**
-`Security` · `Move` · `Rust` · `TypeScript` · `Python`  
-`Distributed Systems` · `Protocol Design` · `AI Tooling`
+`Security` · `Move` · `Rust` · `TypeScript` · `Python` · `Go`
+`Distributed Systems` · `Protocol Design` · `AI Research` · `Automation` · `Astrophysics`
 
 ---
 
@@ -27,16 +29,31 @@ Building capital-efficient, zero-trust, on-chain financial systems on **Sui**.
 ![Move](https://img.shields.io/badge/Move-005DFF?style=for-the-badge&logo=move&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1E415E?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TS-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E415E?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
 ---
 
+### 💻 **Languages**
+| Language | Use Cases |
+|----------|-----------|
+| **Move** | On-chain smart contracts (Sui), DeFi protocol core logic |
+| **Rust** | SDK development, system-level tooling, Solana programs |
+| **TypeScript** | Full-stack DeFi infrastructure, API services, SDK, liquidation bots |
+| **Python** | Lending SDK, data scraping, automation scripts |
+| **Go** | High-performance SDK, on-chain builders, oracle integration |
+| **JavaScript** | Browser extensions, frontend prototyping |
+
+---
+
 ### 📦 **Projects**
-- **Scallop** — next-gen money market powered by Sui  
-- **Interdimensional Communication Theory** — research across physics, cognition, and information structures  
+- **[Scallop](https://scallop.io)** — next-gen money market powered by Sui
+- **[Astro-Civilizations Hypothesis](https://github.com/djchrisssssss/astro-civilizations-hypothesis)** — cosmic life diffusion, civilization evolution, and extraterrestrial phenomenon structure hypothesis
+- **[Interdimensional Communication Theory](https://github.com/djchrisssssss/interdimensional-communication-theory)** — structural interpretation of the universe, consciousness, and causation ([DOI](https://doi.org/10.5281/zenodo.15664444))
 
 
 ---
