@@ -12,7 +12,7 @@ Independent researcher exploring physics hypotheses through AI-collaborative fra
 - **DeFi protocol architecture** — separated collateral/lending risk engine, sCoins, sub-accounts
 - **Security engineering** — threat modeling, protocol security, formal logic
 - **AI research & automation** — LLM agents, autonomous tooling, AI-assisted development pipelines
-- **Independent physics research** — AI-collaborative hypothesis development across astrophysics, plasma topology, MHD solitons, and consciousness field theory; all hypotheses designed as falsifiable frameworks
+- **Independent physics research** — AI-collaborative hypothesis development across astrophysics, plasma topology, MHD solitons, and consciousness field theory
 
 ---
 
