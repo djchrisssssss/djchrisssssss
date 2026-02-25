@@ -2,9 +2,9 @@
 
 ### 👨‍💻 **About**
 Founder & CEO of **Scallop**
-Security Engineering · Web3 Infrastructure · System Architecture · Astrophysics Research
+Security Engineering · Web3 Infrastructure · System Architecture · Astrophysics & Plasma Physics Research
 Building capital-efficient, zero-trust, on-chain financial systems on **Sui**.
-Exploring cosmic life diffusion, civilization evolution, and structural models of consciousness.
+Exploring cosmic life diffusion, civilization evolution, topological plasma physics, and structural models of consciousness.
 
 ---
 
@@ -13,13 +13,14 @@ Exploring cosmic life diffusion, civilization evolution, and structural models o
 - **Security engineering** — threat modeling, protocol security, formal logic
 - **AI research & automation** — LLM agents, autonomous tooling, AI-assisted development pipelines
 - **Astrophysics & cosmology** — cosmic life diffusion models, civilization evolution thresholds, extraterrestrial phenomenon classification
+- **Plasma physics & topological field theory** — Hopfion ring structures, ball lightning reinterpretation, MHD solitons
 - **Interdimensional communication theory** — structural models of consciousness, quantum field resonance, CPRR framework
 
 ---
 
 ### ⚙️ **Engineering Domains**
 `Security` · `Move` · `Rust` · `TypeScript` · `Python` · `Go`
-`Distributed Systems` · `Protocol Design` · `AI Research` · `Automation` · `Astrophysics`
+`Distributed Systems` · `Protocol Design` · `AI Research` · `Automation` · `Astrophysics` · `Plasma Physics`
 
 ---
 
@@ -53,6 +54,7 @@ Exploring cosmic life diffusion, civilization evolution, and structural models o
 ### 📦 **Projects**
 - **[Scallop](https://scallop.io)** — next-gen money market powered by Sui
 - **[Astro-Civilizations Hypothesis](https://github.com/djchrisssssss/astro-civilizations-hypothesis)** — cosmic life diffusion, civilization evolution, and extraterrestrial phenomenon structure hypothesis
+- **[Hopfion Ring Lightning Hypothesis](https://github.com/djchrisssssss/hopfion-ring-lightning-hypothesis)** — reinterpreting ball lightning as a topological ring-shaped plasma soliton
 - **[Interdimensional Communication Theory](https://github.com/djchrisssssss/interdimensional-communication-theory)** — structural interpretation of the universe, consciousness, and causation ([DOI](https://doi.org/10.5281/zenodo.15664444))
 
 
