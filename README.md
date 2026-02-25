@@ -2,9 +2,9 @@
 
 ### 👨‍💻 **About**
 Founder & CEO of **Scallop**
-Security Engineering · Web3 Infrastructure · System Architecture · Astrophysics & Plasma Physics Research
+Security Engineering · Web3 Infrastructure · System Architecture
 Building capital-efficient, zero-trust, on-chain financial systems on **Sui**.
-Exploring cosmic life diffusion, civilization evolution, topological plasma physics, and structural models of consciousness.
+Independent researcher exploring physics hypotheses through AI-collaborative frameworks — covering astrophysics, plasma topology, and consciousness modeling.
 
 ---
 
@@ -12,15 +12,13 @@ Exploring cosmic life diffusion, civilization evolution, topological plasma phys
 - **DeFi protocol architecture** — separated collateral/lending risk engine, sCoins, sub-accounts
 - **Security engineering** — threat modeling, protocol security, formal logic
 - **AI research & automation** — LLM agents, autonomous tooling, AI-assisted development pipelines
-- **Astrophysics & cosmology** — cosmic life diffusion models, civilization evolution thresholds, extraterrestrial phenomenon classification
-- **Plasma physics & topological field theory** — Hopfion ring structures, ball lightning reinterpretation, MHD solitons
-- **Interdimensional communication theory** — structural models of consciousness, quantum field resonance, CPRR framework
+- **Independent physics research** — AI-collaborative hypothesis development across astrophysics, plasma topology, MHD solitons, and consciousness field theory; all hypotheses designed as falsifiable frameworks
 
 ---
 
 ### ⚙️ **Engineering Domains**
 `Security` · `Move` · `Rust` · `TypeScript` · `Python` · `Go`
-`Distributed Systems` · `Protocol Design` · `AI Research` · `Automation` · `Astrophysics` · `Plasma Physics`
+`Distributed Systems` · `Protocol Design` · `AI Research` · `Automation`
 
 ---
 
@@ -53,9 +51,9 @@ Exploring cosmic life diffusion, civilization evolution, topological plasma phys
 
 ### 📦 **Projects**
 - **[Scallop](https://scallop.io)** — next-gen money market powered by Sui
-- **[Astro-Civilizations Hypothesis](https://github.com/djchrisssssss/astro-civilizations-hypothesis)** — cosmic life diffusion, civilization evolution, and extraterrestrial phenomenon structure hypothesis
-- **[Hopfion Ring Lightning Hypothesis](https://github.com/djchrisssssss/hopfion-ring-lightning-hypothesis)** — reinterpreting ball lightning as a topological ring-shaped plasma soliton
-- **[Interdimensional Communication Theory](https://github.com/djchrisssssss/interdimensional-communication-theory)** — structural interpretation of the universe, consciousness, and causation ([DOI](https://doi.org/10.5281/zenodo.15664444))
+- **[Astro-Civilizations Hypothesis](https://github.com/djchrisssssss/astro-civilizations-hypothesis)** — cosmic life diffusion, civilization evolution, and extraterrestrial phenomenon structure hypothesis `AI-collaborative`
+- **[Hopfion Ring Lightning Hypothesis](https://github.com/djchrisssssss/hopfion-ring-lightning-hypothesis)** — reinterpreting ball lightning as a topological ring-shaped plasma soliton `AI-collaborative`
+- **[Interdimensional Communication Theory](https://github.com/djchrisssssss/interdimensional-communication-theory)** — structural interpretation of the universe, consciousness, and causation ([DOI](https://doi.org/10.5281/zenodo.15664444)) `AI-collaborative`
 
 
 ---
