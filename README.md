@@ -53,7 +53,7 @@ Independent researcher exploring physics hypotheses through AI-collaborative fra
 - **[Scallop](https://scallop.io)** — next-gen money market powered by Sui
 - **[Cosmic Diaspora Hypothesis](https://github.com/djchrisssssss/cosmic-diaspora-hypothesis)** — 宇宙播遷假說：cosmic life diffusion, civilization evolution, and extraterrestrial phenomenon structure hypothesis ([DOI](https://doi.org/10.5281/zenodo.18965614)) `AI-collaborative`
 - **[Hopfion Ring Lightning Hypothesis](https://github.com/djchrisssssss/hopfion-ring-lightning-hypothesis)** — 霍普離子環閃電假說：reinterpreting ball lightning as a topological ring-shaped plasma soliton ([DOI](https://doi.org/10.5281/zenodo.17510337)) `AI-collaborative`
-- **[Interdimensional Communication Theory](https://github.com/djchrisssssss/interdimensional-communication-theory)** — structural interpretation of the universe, consciousness, and causation ([DOI](https://doi.org/10.5281/zenodo.15664444)) `AI-collaborative`
+- **[Interdimensional Communication Theory](https://github.com/djchrisssssss/interdimensional-communication-theory)** — 跨維度通訊理論：structural interpretation of the universe, consciousness, and causation ([DOI](https://doi.org/10.5281/zenodo.15664444)) `AI-collaborative`
 - **[CCP Cognitive Warfare Deconstruction](https://github.com/djchrisssssss/ccp-cognitive-invade-deconstruction)** — 中共對台認知作戰解構：deconstructing CCP cognitive warfare structure, technology, and operational chains targeting Taiwan `AI-collaborative`
 
 
