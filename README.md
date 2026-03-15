@@ -7,7 +7,7 @@
 Founder & CEO of **Scallop**
 Security Engineering · Web3 Infrastructure · System Architecture
 Building capital-efficient, zero-trust, on-chain financial systems on **Sui**.
-Independent researcher exploring physics hypotheses through AI-collaborative frameworks — covering astrophysics, plasma topology, and consciousness modeling.
+Independent researcher exploring hypotheses through AI-collaborative frameworks — covering astrophysics, plasma topology, consciousness modeling, and cognitive warfare analysis.
 
 ---
 
@@ -16,6 +16,7 @@ Independent researcher exploring physics hypotheses through AI-collaborative fra
 - **Security engineering** — threat modeling, protocol security, formal logic
 - **AI research & automation** — LLM agents, autonomous tooling, AI-assisted development pipelines
 - **Independent physics research** — AI-collaborative hypothesis development across astrophysics, plasma topology, MHD solitons, and consciousness field theory
+- **Cognitive warfare research** — structural deconstruction of information operations, propaganda chains, and defense strategies
 
 ---
 
@@ -59,19 +60,19 @@ Independent researcher exploring physics hypotheses through AI-collaborative fra
 
 ---
 
-### 🌐 **Links**
-[![Website](https://img.shields.io/badge/Scallop.io-011829?style=flat&logo=google-chrome&logoColor=white)](https://scallop.io)
-[![X](https://img.shields.io/badge/@djchrisssssss-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/djchrisssssss)
-[![Email](https://img.shields.io/badge/kriss%40scallop.io-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kriss@scallop.io)
-
----
-
 ### 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=djchrisssssss&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djchrisssssss&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
+---
+
+### 🌐 **Links**
+[![Website](https://img.shields.io/badge/Scallop.io-011829?style=flat&logo=google-chrome&logoColor=white)](https://scallop.io)
+[![X](https://img.shields.io/badge/@djchrisssssss-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/djchrisssssss)
+[![Email](https://img.shields.io/badge/kriss%40scallop.io-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kriss@scallop.io)
 
 ---
 
