@@ -17,7 +17,7 @@ Independent researcher exploring physics hypotheses through AI-collaborative fra
 ---
 
 ### ⚙️ **Engineering Domains**
-`Security` · `Move` · `Rust` · `TypeScript` · `Python` · `Go`
+`Security` · `Move` · `Rust` · `TypeScript` · `Python` · `PHP`
 `Distributed Systems` · `Protocol Design` · `AI Research` · `Automation`
 
 ---
@@ -30,7 +30,7 @@ Independent researcher exploring physics hypotheses through AI-collaborative fra
 ![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TS-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1E415E?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
@@ -44,7 +44,7 @@ Independent researcher exploring physics hypotheses through AI-collaborative fra
 | **Rust** | SDK development, system-level tooling, Solana programs |
 | **TypeScript** | Full-stack DeFi infrastructure, API services, SDK, liquidation bots |
 | **Python** | Lending SDK, data scraping, automation scripts |
-| **Go** | High-performance SDK, on-chain builders, oracle integration |
+| **PHP** | Backend services, web applications, API development |
 | **JavaScript** | Browser extensions, frontend prototyping |
 
 ---
@@ -54,6 +54,7 @@ Independent researcher exploring physics hypotheses through AI-collaborative fra
 - **[Cosmic Diaspora Hypothesis](https://github.com/djchrisssssss/cosmic-diaspora-hypothesis)** — 宇宙播遷假說：cosmic life diffusion, civilization evolution, and extraterrestrial phenomenon structure hypothesis ([DOI](https://doi.org/10.5281/zenodo.18965614)) `AI-collaborative`
 - **[Hopfion Ring Lightning Hypothesis](https://github.com/djchrisssssss/hopfion-ring-lightning-hypothesis)** — 霍普離子環閃電假說：reinterpreting ball lightning as a topological ring-shaped plasma soliton ([DOI](https://doi.org/10.5281/zenodo.17510337)) `AI-collaborative`
 - **[Interdimensional Communication Theory](https://github.com/djchrisssssss/interdimensional-communication-theory)** — structural interpretation of the universe, consciousness, and causation ([DOI](https://doi.org/10.5281/zenodo.15664444)) `AI-collaborative`
+- **[CCP Cognitive Warfare Deconstruction](https://github.com/djchrisssssss/ccp-cognitive-invade-deconstruction)** — 中共對台認知作戰解構：deconstructing CCP cognitive warfare structure, technology, and operational chains targeting Taiwan `AI-collaborative`
 
 
 ---
