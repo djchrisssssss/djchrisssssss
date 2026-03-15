@@ -1,4 +1,7 @@
 <!-- Banner -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DA2FF&center=true&vCenter=true&width=500&lines=Founder+%26+CEO+of+Scallop;Security+Engineering+%C2%B7+Web3+Infrastructure;Building+on+Sui+Blockchain;Independent+Researcher" alt="Typing SVG" /></a>
+</p>
 
 ### 👨‍💻 **About**
 Founder & CEO of **Scallop**
@@ -17,14 +20,12 @@ Independent researcher exploring physics hypotheses through AI-collaborative fra
 ---
 
 ### ⚙️ **Engineering Domains**
-`Security` · `Move` · `Rust` · `TypeScript` · `Python` · `PHP`
-`Distributed Systems` · `Protocol Design` · `AI Research` · `Automation`
+`Security` · `Distributed Systems` · `Protocol Design` · `AI Research` · `Automation`
 
 ---
 
 ### 🛠️ **Tech Stack**
-<div style="display: flex; gap: 10px;">
-  
+
 ![Move](https://img.shields.io/badge/Move-005DFF?style=for-the-badge&logo=move&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
@@ -33,11 +34,6 @@ Independent researcher exploring physics hypotheses through AI-collaborative fra
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
-
----
-
-### 💻 **Languages**
 | Language | Use Cases |
 |----------|-----------|
 | **Move** | On-chain smart contracts (Sui), DeFi protocol core logic |
@@ -50,7 +46,11 @@ Independent researcher exploring physics hypotheses through AI-collaborative fra
 ---
 
 ### 📦 **Projects**
-- **[Scallop](https://scallop.io)** — next-gen money market powered by Sui
+
+#### DeFi / Engineering
+- **[Scallop](https://scallop.io)** | [GitHub](https://github.com/scallop-io) — next-gen money market powered by Sui
+
+#### Independent Research
 - **[Cosmic Diaspora Hypothesis](https://github.com/djchrisssssss/cosmic-diaspora-hypothesis)** — 宇宙播遷假說：cosmic life diffusion, civilization evolution, and extraterrestrial phenomenon structure hypothesis ([DOI](https://doi.org/10.5281/zenodo.18965614)) `AI-collaborative`
 - **[Hopfion Ring Lightning Hypothesis](https://github.com/djchrisssssss/hopfion-ring-lightning-hypothesis)** — 霍普離子環閃電假說：reinterpreting ball lightning as a topological ring-shaped plasma soliton ([DOI](https://doi.org/10.5281/zenodo.17510337)) `AI-collaborative`
 - **[Interdimensional Communication Theory](https://github.com/djchrisssssss/interdimensional-communication-theory)** — 跨維度通訊理論：structural interpretation of the universe, consciousness, and causation ([DOI](https://doi.org/10.5281/zenodo.15664444)) `AI-collaborative`
@@ -63,6 +63,15 @@ Independent researcher exploring physics hypotheses through AI-collaborative fra
 [![Website](https://img.shields.io/badge/Scallop.io-011829?style=flat&logo=google-chrome&logoColor=white)](https://scallop.io)
 [![X](https://img.shields.io/badge/@djchrisssssss-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/djchrisssssss)
 [![Email](https://img.shields.io/badge/kriss%40scallop.io-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kriss@scallop.io)
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djchrisssssss&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djchrisssssss&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
