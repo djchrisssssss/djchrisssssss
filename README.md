@@ -55,6 +55,7 @@ Independent researcher exploring hypotheses through AI-collaborative frameworks 
 - **[Cosmic Diaspora Hypothesis](https://github.com/djchrisssssss/cosmic-diaspora-hypothesis)** — 宇宙播遷假說：cosmic life diffusion, civilization evolution, and extraterrestrial phenomenon structure hypothesis ([DOI](https://doi.org/10.5281/zenodo.18965614)) `AI-collaborative`
 - **[Hopfion Ring Lightning Hypothesis](https://github.com/djchrisssssss/hopfion-ring-lightning-hypothesis)** — 霍普離子環閃電假說：reinterpreting ball lightning as a topological ring-shaped plasma soliton ([DOI](https://doi.org/10.5281/zenodo.17510337)) `AI-collaborative`
 - **[Interdimensional Communication Theory](https://github.com/djchrisssssss/interdimensional-communication-theory)** — 跨維度通訊理論：structural interpretation of the universe, consciousness, and causation ([DOI](https://doi.org/10.5281/zenodo.15664444)) `AI-collaborative`
+- **[Taiwan National Strategy](https://github.com/djchrisssssss/taiwan-national-strategy)** — 台灣多領域國家安全戰略：systems-engineering analysis of Taiwan's geostrategic position, semiconductor leverage, critical infrastructure resilience, cognitive defense, and international linkages `AI-collaborative`
 - **[CCP Cognitive Warfare Deconstruction](https://github.com/djchrisssssss/ccp-cognitive-invade-deconstruction)** — 中共對台認知作戰解構：deconstructing CCP cognitive warfare structure, technology, and operational chains targeting Taiwan `AI-collaborative`
 
 
