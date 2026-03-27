@@ -1,32 +1,32 @@
-<svg width="495" height="210" viewBox="0 0 495 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="stats-title-dark stats-desc-dark">
+<svg width="495" height="230" viewBox="0 0 495 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="stats-title-dark stats-desc-dark">
   <title id="stats-title-dark">GitHub Stats</title>
   <desc id="stats-desc-dark">djchrisssssss profile summary with 24 public repositories, 41 followers, 39 following, 48 total stars, and 3 forks.</desc>
-  <rect width="495" height="210" rx="20" fill="#1a1b27"/>
-  <rect x="0.5" y="0.5" width="494" height="209" rx="19.5" stroke="#2f334d"/>
+  <rect width="495" height="230" rx="20" fill="#1a1b27"/>
+  <rect x="0.5" y="0.5" width="494" height="229" rx="19.5" stroke="#2f334d"/>
   <text x="24" y="36" fill="#c0caf5" font-size="22" font-weight="700">GitHub Stats</text>
   <text x="24" y="56" fill="#8f9bcc" font-size="12">Generated from the GitHub API</text>
   <text x="471" y="36" text-anchor="end" fill="#7aa2f7" font-size="14" font-weight="700">@djchrisssssss</text>
   
-  <g transform="translate(24 72)">
-    <rect width="213" height="46" rx="14" fill="#1f2335" stroke="#2f334d"/>
-    <text x="16" y="19" fill="#8f9bcc" font-size="12" font-weight="600">Public repos</text>
-    <text x="16" y="34" fill="#c0caf5" font-size="22" font-weight="700">24</text>
+  <g transform="translate(24 76)">
+    <rect width="213" height="54" rx="14" fill="#1f2335" stroke="#2f334d"/>
+    <text x="16" y="24" fill="#8f9bcc" font-size="11" font-weight="600">Public repos</text>
+    <text x="16" y="44" fill="#c0caf5" font-size="21" font-weight="700">24</text>
   </g>
-  <g transform="translate(258 72)">
-    <rect width="213" height="46" rx="14" fill="#1f2335" stroke="#2f334d"/>
-    <text x="16" y="19" fill="#8f9bcc" font-size="12" font-weight="600">Followers</text>
-    <text x="16" y="34" fill="#c0caf5" font-size="22" font-weight="700">41</text>
+  <g transform="translate(258 76)">
+    <rect width="213" height="54" rx="14" fill="#1f2335" stroke="#2f334d"/>
+    <text x="16" y="24" fill="#8f9bcc" font-size="11" font-weight="600">Followers</text>
+    <text x="16" y="44" fill="#c0caf5" font-size="21" font-weight="700">41</text>
   </g>
-  <g transform="translate(24 124)">
-    <rect width="213" height="46" rx="14" fill="#1f2335" stroke="#2f334d"/>
-    <text x="16" y="19" fill="#8f9bcc" font-size="12" font-weight="600">Following</text>
-    <text x="16" y="34" fill="#c0caf5" font-size="22" font-weight="700">39</text>
+  <g transform="translate(24 140)">
+    <rect width="213" height="54" rx="14" fill="#1f2335" stroke="#2f334d"/>
+    <text x="16" y="24" fill="#8f9bcc" font-size="11" font-weight="600">Following</text>
+    <text x="16" y="44" fill="#c0caf5" font-size="21" font-weight="700">39</text>
   </g>
-  <g transform="translate(258 124)">
-    <rect width="213" height="46" rx="14" fill="#1f2335" stroke="#2f334d"/>
-    <text x="16" y="19" fill="#8f9bcc" font-size="12" font-weight="600">Total stars</text>
-    <text x="16" y="34" fill="#c0caf5" font-size="22" font-weight="700">48</text>
+  <g transform="translate(258 140)">
+    <rect width="213" height="54" rx="14" fill="#1f2335" stroke="#2f334d"/>
+    <text x="16" y="24" fill="#8f9bcc" font-size="11" font-weight="600">Total stars</text>
+    <text x="16" y="44" fill="#c0caf5" font-size="21" font-weight="700">48</text>
   </g>
-  <text x="24" y="191" fill="#8f9bcc" font-size="12">Forks across owned repos: 3</text>
-  <text x="471" y="191" text-anchor="end" fill="#8f9bcc" font-size="12">Updated 2026-03-27 06:35 UTC</text>
+  <text x="24" y="212" fill="#8f9bcc" font-size="12">Forks across owned repos: 3</text>
+  <text x="471" y="212" text-anchor="end" fill="#8f9bcc" font-size="12">Updated 2026-03-27 08:28 UTC</text>
 </svg>

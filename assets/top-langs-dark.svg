@@ -1,42 +1,42 @@
-<svg width="495" height="210" viewBox="0 0 495 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="langs-title-dark langs-desc-dark">
+<svg width="495" height="230" viewBox="0 0 495 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="langs-title-dark langs-desc-dark">
   <title id="langs-title-dark">Top Languages</title>
   <desc id="langs-desc-dark">Top languages by byte size across public, non-fork repositories.</desc>
-  <rect width="495" height="210" rx="20" fill="#1a1b27"/>
-  <rect x="0.5" y="0.5" width="494" height="209" rx="19.5" stroke="#2f334d"/>
+  <rect width="495" height="230" rx="20" fill="#1a1b27"/>
+  <rect x="0.5" y="0.5" width="494" height="229" rx="19.5" stroke="#2f334d"/>
   <text x="24" y="36" fill="#c0caf5" font-size="22" font-weight="700">Top Languages</text>
   <text x="24" y="56" fill="#8f9bcc" font-size="12">Public, non-fork repositories only</text>
   <text x="471" y="36" text-anchor="end" fill="#bb9af7" font-size="14" font-weight="700">13 repos</text>
   
-  <rect x="158" y="66" width="250" height="8" rx="4" fill="#1f2335" stroke="#2f334d"/>
-  <rect x="158" y="66" width="195" height="8" rx="4" fill="#7aa2f7"/>
-  <text x="24" y="76" fill="#c0caf5" font-size="13" font-weight="600">TeX</text>
-  <text x="471" y="76" text-anchor="end" fill="#8f9bcc" font-size="12">78.1%</text>
+  <rect x="158" y="74" width="250" height="8" rx="4" fill="#1f2335" stroke="#2f334d"/>
+  <rect x="158" y="74" width="195" height="8" rx="4" fill="#7aa2f7"/>
+  <text x="24" y="84" fill="#c0caf5" font-size="13" font-weight="600">TeX</text>
+  <text x="471" y="84" text-anchor="end" fill="#8f9bcc" font-size="12">78.1%</text>
 
-  <rect x="158" y="85" width="250" height="8" rx="4" fill="#1f2335" stroke="#2f334d"/>
-  <rect x="158" y="85" width="41" height="8" rx="4" fill="#bb9af7"/>
-  <text x="24" y="95" fill="#c0caf5" font-size="13" font-weight="600">Python</text>
-  <text x="471" y="95" text-anchor="end" fill="#8f9bcc" font-size="12">16.3%</text>
+  <rect x="158" y="95" width="250" height="8" rx="4" fill="#1f2335" stroke="#2f334d"/>
+  <rect x="158" y="95" width="41" height="8" rx="4" fill="#bb9af7"/>
+  <text x="24" y="105" fill="#c0caf5" font-size="13" font-weight="600">Python</text>
+  <text x="471" y="105" text-anchor="end" fill="#8f9bcc" font-size="12">16.3%</text>
 
-  <rect x="158" y="104" width="250" height="8" rx="4" fill="#1f2335" stroke="#2f334d"/>
-  <rect x="158" y="104" width="8" height="8" rx="4" fill="#73daca"/>
-  <text x="24" y="114" fill="#c0caf5" font-size="13" font-weight="600">Shell</text>
-  <text x="471" y="114" text-anchor="end" fill="#8f9bcc" font-size="12">2.5%</text>
+  <rect x="158" y="116" width="250" height="8" rx="4" fill="#1f2335" stroke="#2f334d"/>
+  <rect x="158" y="116" width="8" height="8" rx="4" fill="#73daca"/>
+  <text x="24" y="126" fill="#c0caf5" font-size="13" font-weight="600">Shell</text>
+  <text x="471" y="126" text-anchor="end" fill="#8f9bcc" font-size="12">2.5%</text>
 
-  <rect x="158" y="123" width="250" height="8" rx="4" fill="#1f2335" stroke="#2f334d"/>
-  <rect x="158" y="123" width="8" height="8" rx="4" fill="#e0af68"/>
-  <text x="24" y="133" fill="#c0caf5" font-size="13" font-weight="600">Rust</text>
-  <text x="471" y="133" text-anchor="end" fill="#8f9bcc" font-size="12">1.9%</text>
+  <rect x="158" y="137" width="250" height="8" rx="4" fill="#1f2335" stroke="#2f334d"/>
+  <rect x="158" y="137" width="8" height="8" rx="4" fill="#e0af68"/>
+  <text x="24" y="147" fill="#c0caf5" font-size="13" font-weight="600">Rust</text>
+  <text x="471" y="147" text-anchor="end" fill="#8f9bcc" font-size="12">1.9%</text>
 
-  <rect x="158" y="142" width="250" height="8" rx="4" fill="#1f2335" stroke="#2f334d"/>
-  <rect x="158" y="142" width="8" height="8" rx="4" fill="#f7768e"/>
-  <text x="24" y="152" fill="#c0caf5" font-size="13" font-weight="600">TypeScript</text>
-  <text x="471" y="152" text-anchor="end" fill="#8f9bcc" font-size="12">0.6%</text>
+  <rect x="158" y="158" width="250" height="8" rx="4" fill="#1f2335" stroke="#2f334d"/>
+  <rect x="158" y="158" width="8" height="8" rx="4" fill="#f7768e"/>
+  <text x="24" y="168" fill="#c0caf5" font-size="13" font-weight="600">TypeScript</text>
+  <text x="471" y="168" text-anchor="end" fill="#8f9bcc" font-size="12">0.6%</text>
 
-  <rect x="158" y="161" width="250" height="8" rx="4" fill="#1f2335" stroke="#2f334d"/>
-  <rect x="158" y="161" width="8" height="8" rx="4" fill="#7dcfff"/>
-  <text x="24" y="171" fill="#c0caf5" font-size="13" font-weight="600">JavaScript</text>
-  <text x="471" y="171" text-anchor="end" fill="#8f9bcc" font-size="12">0.6%</text>
+  <rect x="158" y="179" width="250" height="8" rx="4" fill="#1f2335" stroke="#2f334d"/>
+  <rect x="158" y="179" width="8" height="8" rx="4" fill="#7dcfff"/>
+  <text x="24" y="189" fill="#c0caf5" font-size="13" font-weight="600">JavaScript</text>
+  <text x="471" y="189" text-anchor="end" fill="#8f9bcc" font-size="12">0.6%</text>
 
-  <text x="24" y="198" fill="#8f9bcc" font-size="12">Measured by GitHub language bytes</text>
-  <text x="471" y="198" text-anchor="end" fill="#8f9bcc" font-size="12">342.8K bytes</text>
+  <text x="24" y="218" fill="#8f9bcc" font-size="12">Measured by GitHub language bytes</text>
+  <text x="471" y="218" text-anchor="end" fill="#8f9bcc" font-size="12">342.8K bytes</text>
 </svg>

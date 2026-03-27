@@ -133,14 +133,14 @@ def render_stats_card(theme_name: str, profile: dict, repositories: list[dict]) 
     ]
 
     boxes = []
-    box_positions = [(24, 72), (258, 72), (24, 124), (258, 124)]
+    box_positions = [(24, 76), (258, 76), (24, 140), (258, 140)]
     for (label, value), (x, y) in zip(stats, box_positions):
         boxes.append(
             f"""
   <g transform="translate({x} {y})">
-    <rect width="213" height="46" rx="14" fill="{theme["card"]}" stroke="{theme["stroke"]}"/>
-    <text x="16" y="19" fill="{theme["muted"]}" font-size="12" font-weight="600">{escape(label)}</text>
-    <text x="16" y="34" fill="{theme["text"]}" font-size="22" font-weight="700">{escape(format_number(value))}</text>
+    <rect width="213" height="54" rx="14" fill="{theme["card"]}" stroke="{theme["stroke"]}"/>
+    <text x="16" y="24" fill="{theme["muted"]}" font-size="11" font-weight="600">{escape(label)}</text>
+    <text x="16" y="44" fill="{theme["text"]}" font-size="21" font-weight="700">{escape(format_number(value))}</text>
   </g>"""
         )
 
@@ -150,17 +150,17 @@ def render_stats_card(theme_name: str, profile: dict, repositories: list[dict]) 
         f"{total_stars} total stars, and {total_forks} forks."
     )
 
-    return f"""<svg width="495" height="210" viewBox="0 0 495 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="stats-title-{theme_name} stats-desc-{theme_name}">
+    return f"""<svg width="495" height="230" viewBox="0 0 495 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="stats-title-{theme_name} stats-desc-{theme_name}">
   <title id="stats-title-{theme_name}">GitHub Stats</title>
   <desc id="stats-desc-{theme_name}">{escape(description)}</desc>
-  <rect width="495" height="210" rx="20" fill="{theme["bg"]}"/>
-  <rect x="0.5" y="0.5" width="494" height="209" rx="19.5" stroke="{theme["stroke"]}"/>
+  <rect width="495" height="230" rx="20" fill="{theme["bg"]}"/>
+  <rect x="0.5" y="0.5" width="494" height="229" rx="19.5" stroke="{theme["stroke"]}"/>
   <text x="24" y="36" fill="{theme["text"]}" font-size="22" font-weight="700">GitHub Stats</text>
   <text x="24" y="56" fill="{theme["muted"]}" font-size="12">Generated from the GitHub API</text>
   <text x="471" y="36" text-anchor="end" fill="{theme["accent"]}" font-size="14" font-weight="700">@{escape(USERNAME)}</text>
   {''.join(boxes)}
-  <text x="24" y="191" fill="{theme["muted"]}" font-size="12">Forks across owned repos: {escape(format_number(total_forks))}</text>
-  <text x="471" y="191" text-anchor="end" fill="{theme["muted"]}" font-size="12">Updated {escape(last_refresh)}</text>
+  <text x="24" y="212" fill="{theme["muted"]}" font-size="12">Forks across owned repos: {escape(format_number(total_forks))}</text>
+  <text x="471" y="212" text-anchor="end" fill="{theme["muted"]}" font-size="12">Updated {escape(last_refresh)}</text>
 </svg>
 """
 
@@ -172,8 +172,8 @@ def render_languages_card(theme_name: str, repositories: list[dict], language_to
     top_languages = list(language_totals.items())[:6]
 
     rows = []
-    start_y = 76
-    row_gap = 19
+    start_y = 84
+    row_gap = 21
     bar_x = 158
     bar_width = 250
 
@@ -198,17 +198,17 @@ def render_languages_card(theme_name: str, repositories: list[dict], language_to
 
     description = "Top languages by byte size across public, non-fork repositories."
 
-    return f"""<svg width="495" height="210" viewBox="0 0 495 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="langs-title-{theme_name} langs-desc-{theme_name}">
+    return f"""<svg width="495" height="230" viewBox="0 0 495 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="langs-title-{theme_name} langs-desc-{theme_name}">
   <title id="langs-title-{theme_name}">Top Languages</title>
   <desc id="langs-desc-{theme_name}">{escape(description)}</desc>
-  <rect width="495" height="210" rx="20" fill="{theme["bg"]}"/>
-  <rect x="0.5" y="0.5" width="494" height="209" rx="19.5" stroke="{theme["stroke"]}"/>
+  <rect width="495" height="230" rx="20" fill="{theme["bg"]}"/>
+  <rect x="0.5" y="0.5" width="494" height="229" rx="19.5" stroke="{theme["stroke"]}"/>
   <text x="24" y="36" fill="{theme["text"]}" font-size="22" font-weight="700">Top Languages</text>
   <text x="24" y="56" fill="{theme["muted"]}" font-size="12">Public, non-fork repositories only</text>
   <text x="471" y="36" text-anchor="end" fill="{theme["accent_2"]}" font-size="14" font-weight="700">{escape(str(len(owned_repositories)))} repos</text>
   {''.join(rows)}
-  <text x="24" y="198" fill="{theme["muted"]}" font-size="12">Measured by GitHub language bytes</text>
-  <text x="471" y="198" text-anchor="end" fill="{theme["muted"]}" font-size="12">{escape(format_number(total_bytes))} bytes</text>
+  <text x="24" y="218" fill="{theme["muted"]}" font-size="12">Measured by GitHub language bytes</text>
+  <text x="471" y="218" text-anchor="end" fill="{theme["muted"]}" font-size="12">{escape(format_number(total_bytes))} bytes</text>
 </svg>
 """
 
