@@ -73,8 +73,20 @@ Independent researcher building AI-collaborative research frameworks across **UA
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djchrisssssss&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djchrisssssss&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/github-stats-light.svg" />
+    <img src="./assets/github-stats-light.svg" alt="GitHub stats for djchrisssssss" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/top-langs-light.svg" />
+    <img src="./assets/top-langs-light.svg" alt="Top languages for djchrisssssss" height="165" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Auto-generated inside this repository via GitHub Actions every 12 hours.</sub>
 </p>
 
 ---
