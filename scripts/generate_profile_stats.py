@@ -133,14 +133,14 @@ def render_stats_card(theme_name: str, profile: dict, repositories: list[dict]) 
     ]
 
     boxes = []
-    box_positions = [(24, 76), (258, 76), (24, 140), (258, 140)]
+    box_positions = [(24, 72), (258, 72), (24, 128), (258, 128)]
     for (label, value), (x, y) in zip(stats, box_positions):
         boxes.append(
             f"""
   <g transform="translate({x} {y})">
-    <rect width="213" height="52" rx="14" fill="{theme["card"]}" stroke="{theme["stroke"]}"/>
+    <rect width="213" height="48" rx="14" fill="{theme["card"]}" stroke="{theme["stroke"]}"/>
     <text x="16" y="20" fill="{theme["muted"]}" font-size="12" font-weight="600">{escape(label)}</text>
-    <text x="16" y="38" fill="{theme["text"]}" font-size="22" font-weight="700">{escape(format_number(value))}</text>
+    <text x="16" y="36" fill="{theme["text"]}" font-size="22" font-weight="700">{escape(format_number(value))}</text>
   </g>"""
         )
 
@@ -159,8 +159,8 @@ def render_stats_card(theme_name: str, profile: dict, repositories: list[dict]) 
   <text x="24" y="56" fill="{theme["muted"]}" font-size="12">Generated from the GitHub API</text>
   <text x="471" y="36" text-anchor="end" fill="{theme["accent"]}" font-size="14" font-weight="700">@{escape(USERNAME)}</text>
   {''.join(boxes)}
-  <text x="24" y="191" fill="{theme["muted"]}" font-size="12">Forks across owned repos: {escape(format_number(total_forks))}</text>
-  <text x="471" y="191" text-anchor="end" fill="{theme["muted"]}" font-size="12">Updated {escape(last_refresh)}</text>
+  <text x="24" y="198" fill="{theme["muted"]}" font-size="12">Forks across owned repos: {escape(format_number(total_forks))}</text>
+  <text x="471" y="198" text-anchor="end" fill="{theme["muted"]}" font-size="12">Updated {escape(last_refresh)}</text>
 </svg>
 """
 
@@ -172,21 +172,23 @@ def render_languages_card(theme_name: str, repositories: list[dict], language_to
     top_languages = list(language_totals.items())[:6]
 
     rows = []
-    start_y = 72
-    bar_x = 160
-    bar_width = 292
+    start_y = 76
+    row_gap = 19
+    bar_x = 158
+    bar_width = 250
 
     for index, (language, byte_count) in enumerate(top_languages):
-        y = start_y + index * 22
+        y = start_y + index * row_gap
         percentage = (byte_count / total_bytes * 100) if total_bytes else 0
         fill_width = max(8, round(bar_width * (percentage / 100))) if percentage else 0
         color = LANGUAGE_COLORS[index % len(LANGUAGE_COLORS)]
         rows.append(
             f"""
+  <rect x="{bar_x}" y="{y - 10}" width="{bar_width}" height="8" rx="4" fill="{theme["card"]}" stroke="{theme["stroke"]}"/>
+  <rect x="{bar_x}" y="{y - 10}" width="{fill_width}" height="8" rx="4" fill="{color}"/>
   <text x="24" y="{y}" fill="{theme["text"]}" font-size="13" font-weight="600">{escape(language)}</text>
   <text x="471" y="{y}" text-anchor="end" fill="{theme["muted"]}" font-size="12">{percentage:.1f}%</text>
-  <rect x="{bar_x}" y="{y - 10}" width="{bar_width}" height="8" rx="4" fill="{theme["card"]}" stroke="{theme["stroke"]}"/>
-  <rect x="{bar_x}" y="{y - 10}" width="{fill_width}" height="8" rx="4" fill="{color}"/>"""
+"""
         )
 
     if not rows:
@@ -205,8 +207,8 @@ def render_languages_card(theme_name: str, repositories: list[dict], language_to
   <text x="24" y="56" fill="{theme["muted"]}" font-size="12">Public, non-fork repositories only</text>
   <text x="471" y="36" text-anchor="end" fill="{theme["accent_2"]}" font-size="14" font-weight="700">{escape(str(len(owned_repositories)))} repos</text>
   {''.join(rows)}
-  <text x="24" y="191" fill="{theme["muted"]}" font-size="12">Measured by GitHub language bytes</text>
-  <text x="471" y="191" text-anchor="end" fill="{theme["muted"]}" font-size="12">{escape(format_number(total_bytes))} bytes</text>
+  <text x="24" y="198" fill="{theme["muted"]}" font-size="12">Measured by GitHub language bytes</text>
+  <text x="471" y="198" text-anchor="end" fill="{theme["muted"]}" font-size="12">{escape(format_number(total_bytes))} bytes</text>
 </svg>
 """
 
