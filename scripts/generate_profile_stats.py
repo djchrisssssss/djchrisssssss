@@ -133,14 +133,14 @@ def render_stats_card(theme_name: str, profile: dict, repositories: list[dict]) 
     ]
 
     boxes = []
-    box_positions = [(24, 72), (258, 72), (24, 128), (258, 128)]
+    box_positions = [(24, 72), (258, 72), (24, 124), (258, 124)]
     for (label, value), (x, y) in zip(stats, box_positions):
         boxes.append(
             f"""
   <g transform="translate({x} {y})">
-    <rect width="213" height="48" rx="14" fill="{theme["card"]}" stroke="{theme["stroke"]}"/>
-    <text x="16" y="20" fill="{theme["muted"]}" font-size="12" font-weight="600">{escape(label)}</text>
-    <text x="16" y="36" fill="{theme["text"]}" font-size="22" font-weight="700">{escape(format_number(value))}</text>
+    <rect width="213" height="46" rx="14" fill="{theme["card"]}" stroke="{theme["stroke"]}"/>
+    <text x="16" y="19" fill="{theme["muted"]}" font-size="12" font-weight="600">{escape(label)}</text>
+    <text x="16" y="34" fill="{theme["text"]}" font-size="22" font-weight="700">{escape(format_number(value))}</text>
   </g>"""
         )
 
@@ -159,8 +159,8 @@ def render_stats_card(theme_name: str, profile: dict, repositories: list[dict]) 
   <text x="24" y="56" fill="{theme["muted"]}" font-size="12">Generated from the GitHub API</text>
   <text x="471" y="36" text-anchor="end" fill="{theme["accent"]}" font-size="14" font-weight="700">@{escape(USERNAME)}</text>
   {''.join(boxes)}
-  <text x="24" y="198" fill="{theme["muted"]}" font-size="12">Forks across owned repos: {escape(format_number(total_forks))}</text>
-  <text x="471" y="198" text-anchor="end" fill="{theme["muted"]}" font-size="12">Updated {escape(last_refresh)}</text>
+  <text x="24" y="191" fill="{theme["muted"]}" font-size="12">Forks across owned repos: {escape(format_number(total_forks))}</text>
+  <text x="471" y="191" text-anchor="end" fill="{theme["muted"]}" font-size="12">Updated {escape(last_refresh)}</text>
 </svg>
 """
 

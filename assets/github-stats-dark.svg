@@ -8,25 +8,25 @@
   <text x="471" y="36" text-anchor="end" fill="#7aa2f7" font-size="14" font-weight="700">@djchrisssssss</text>
   
   <g transform="translate(24 72)">
-    <rect width="213" height="48" rx="14" fill="#1f2335" stroke="#2f334d"/>
-    <text x="16" y="20" fill="#8f9bcc" font-size="12" font-weight="600">Public repos</text>
-    <text x="16" y="36" fill="#c0caf5" font-size="22" font-weight="700">24</text>
+    <rect width="213" height="46" rx="14" fill="#1f2335" stroke="#2f334d"/>
+    <text x="16" y="19" fill="#8f9bcc" font-size="12" font-weight="600">Public repos</text>
+    <text x="16" y="34" fill="#c0caf5" font-size="22" font-weight="700">24</text>
   </g>
   <g transform="translate(258 72)">
-    <rect width="213" height="48" rx="14" fill="#1f2335" stroke="#2f334d"/>
-    <text x="16" y="20" fill="#8f9bcc" font-size="12" font-weight="600">Followers</text>
-    <text x="16" y="36" fill="#c0caf5" font-size="22" font-weight="700">41</text>
+    <rect width="213" height="46" rx="14" fill="#1f2335" stroke="#2f334d"/>
+    <text x="16" y="19" fill="#8f9bcc" font-size="12" font-weight="600">Followers</text>
+    <text x="16" y="34" fill="#c0caf5" font-size="22" font-weight="700">41</text>
   </g>
-  <g transform="translate(24 128)">
-    <rect width="213" height="48" rx="14" fill="#1f2335" stroke="#2f334d"/>
-    <text x="16" y="20" fill="#8f9bcc" font-size="12" font-weight="600">Following</text>
-    <text x="16" y="36" fill="#c0caf5" font-size="22" font-weight="700">39</text>
+  <g transform="translate(24 124)">
+    <rect width="213" height="46" rx="14" fill="#1f2335" stroke="#2f334d"/>
+    <text x="16" y="19" fill="#8f9bcc" font-size="12" font-weight="600">Following</text>
+    <text x="16" y="34" fill="#c0caf5" font-size="22" font-weight="700">39</text>
   </g>
-  <g transform="translate(258 128)">
-    <rect width="213" height="48" rx="14" fill="#1f2335" stroke="#2f334d"/>
-    <text x="16" y="20" fill="#8f9bcc" font-size="12" font-weight="600">Total stars</text>
-    <text x="16" y="36" fill="#c0caf5" font-size="22" font-weight="700">48</text>
+  <g transform="translate(258 124)">
+    <rect width="213" height="46" rx="14" fill="#1f2335" stroke="#2f334d"/>
+    <text x="16" y="19" fill="#8f9bcc" font-size="12" font-weight="600">Total stars</text>
+    <text x="16" y="34" fill="#c0caf5" font-size="22" font-weight="700">48</text>
   </g>
-  <text x="24" y="198" fill="#8f9bcc" font-size="12">Forks across owned repos: 3</text>
-  <text x="471" y="198" text-anchor="end" fill="#8f9bcc" font-size="12">Updated 2026-03-27 06:24 UTC</text>
+  <text x="24" y="191" fill="#8f9bcc" font-size="12">Forks across owned repos: 3</text>
+  <text x="471" y="191" text-anchor="end" fill="#8f9bcc" font-size="12">Updated 2026-03-27 06:35 UTC</text>
 </svg>
