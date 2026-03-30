@@ -1,76 +1,64 @@
 <!-- Banner -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DA2FF&center=true&vCenter=true&width=500&lines=Founder+%26+CEO+of+Scallop;Security+Engineering+%C2%B7+Web3+Infrastructure;Building+on+Sui+Blockchain;Independent+Researcher" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DA2FF&center=true&vCenter=true&width=560&lines=Founder+%26+CEO+of+Scallop;DeFi+Protocol+Design+%C2%B7+Security+Engineering;AI+Tooling+%C2%B7+Independent+Research;Building+on+Sui+Blockchain" alt="Typing SVG" /></a>
 </p>
 
-### 👨‍💻 **About**
-Founder & CEO of **Scallop**
-Security Engineering · Web3 Infrastructure · System Architecture
-Building capital-efficient, zero-trust, on-chain financial systems on **Sui**.
-Independent researcher building AI-collaborative research frameworks across **UAP physics**, astrophysics, plasma topology, national security, and cognitive warfare analysis.
+### About
+Founder & CEO of **Scallop**, building secure, capital-efficient financial infrastructure on **Sui**.
+
+My work sits at the intersection of **DeFi protocol design**, **security engineering**, and **AI-assisted tooling**.
+Outside protocol engineering, I publish independent research on **UAP / anomaly physics**, **plasma topology**, **astrophysics**, and **cognitive warfare systems**.
 
 ---
 
-### 🧩 **Work Focus**
-- **🏦 DeFi protocol architecture** — separated collateral/lending risk engine, sCoins, veModel, Sui PTB Tool
-- **🛡️ Security engineering** — threat modeling, protocol security, formal logic
-- **🤖 AI research & automation** — LLM agents, autonomous tooling, AI-assisted development pipelines
-- **🛸 Independent physics research** — UAP dynamics reverse engineering, spacetime engineering constraints, plasma topology, astrophysics, and falsifiable hypothesis design
-- **🧠 Cognitive warfare research** — structural deconstruction of information operations, propaganda chains, and defense strategies
+### Work Focus
+- 🏦 **DeFi protocol architecture** - collateral/lending risk engines, sCoins, veModels, and Sui PTB tooling
+- 🛡️ **Security engineering** - threat modeling, protocol security, adversarial analysis, and formal reasoning
+- 🤖 **AI research & automation** - LLM agents, autonomous tooling, and AI-assisted development pipelines
+- 🔬 **Independent research** - physics, strategic systems, and high-uncertainty problem modeling
 
 ---
 
-### 🔭 **Research Directions**
-- **🛸 UAP / UFO physics** — propulsion hypotheses, spacetime engineering limits, fusion-scale energy gaps, electromagnetic signatures, and sensor-based anomaly analysis
-- **🌌 Astrophysics & civilization models** — cosmic life diffusion, detectability constraints, and structured classification of extraterrestrial phenomena
-- **🌀 Topological plasma systems** — Hopfion-like field structures, ring lightning, and stability questions in nonlinear electromagnetic media
-- **🧭 Cognitive warfare & strategy** — information operation deconstruction, Taiwan resilience, national security systems, and strategic defense modeling
+### Research Directions
+- 🛸 **UAP / anomaly physics** - propulsion hypotheses, spacetime engineering limits, fusion-scale energy gaps, electromagnetic signatures, and sensor-based anomaly analysis
+- 🌌 **Astrophysics & civilization models** - cosmic life diffusion, detectability constraints, and structured classification of extraterrestrial phenomena
+- 🌀 **Topological plasma systems** - Hopfion-like field structures, ring lightning, and stability in nonlinear electromagnetic media
+- 🧭 **Cognitive warfare & resilience** - information operation deconstruction, propaganda chains, Taiwan resilience, and strategic defense modeling
 
 ---
 
-### ⚙️ **Engineering Domains**
-`Security` · `Distributed Systems` · `Protocol Design` · `AI Research` · `Automation`
+### Selected Work
+
+#### Protocol / Infrastructure
+- **[Scallop](https://scallop.io)** | [GitHub](https://github.com/scallop-io) - next-gen money market built on Sui
+- **[Scallop Go SDK](https://github.com/djchrisssssss/scallop-go-sdk)** - Go SDK for Scallop protocol integrations and tooling
+- **[Scallop Lend Python SDK](https://github.com/djchrisssssss/scallop-lend-python-sdk)** - Python SDK for lending, obligation management, and automation workflows
+- **[Scallop Liquidator Lite](https://github.com/djchrisssssss/scallop-liquidator-lite)** - liquidation bot infrastructure for Scallop markets
+
+#### Research / Writing
+- **[Reverse Engineering the Dynamics of UFOs](https://github.com/djchrisssssss/ufo-dynamics-reverse-engineering)** - physics-based analysis of UAP observables, propulsion hypotheses, and engineering constraints ([DOI](https://doi.org/10.5281/zenodo.19138271))
+- **[Cosmic Diaspora Hypothesis](https://github.com/djchrisssssss/cosmic-diaspora-hypothesis)** - a framework for cosmic life diffusion, civilization evolution, and extraterrestrial phenomenon structure ([DOI](https://doi.org/10.5281/zenodo.18965614))
+- **[Hopfion Ring Lightning Hypothesis](https://github.com/djchrisssssss/hopfion-ring-lightning-hypothesis)** - a topological plasma interpretation of ring-shaped luminous phenomena ([DOI](https://doi.org/10.5281/zenodo.17510337))
+- **[Taiwan National Strategy](https://github.com/djchrisssssss/taiwan-national-strategy)** - systems-level analysis of resilience, critical infrastructure, national security, and cognitive defense
+- **[CCP Cognitive Warfare Deconstruction](https://github.com/djchrisssssss/ccp-cognitive-invade-deconstruction)** - structural analysis of propaganda chains and information operations targeting Taiwan
 
 ---
 
-### 🛠️ **Tech Stack**
+### Tech Stack
 
 ![Move](https://img.shields.io/badge/Move-005DFF?style=for-the-badge&logo=move&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TS-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1E415E?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-| Language | Use Cases |
-|----------|-----------|
-| **⚔️ Move** | On-chain smart contracts (Sui), DeFi protocol core logic |
-| **🦀 Rust** | SDK development, system-level tooling, Solana programs |
-| **🔷 TypeScript** | Full-stack DeFi infrastructure, API services, SDK, liquidation bots |
-| **🐍 Python** | Lending SDK, data scraping, automation scripts |
-| **🐘 PHP** | Backend services, web applications, API development |
-| **🟨 JavaScript** | Browser extensions, frontend prototyping |
+`Security` `Protocol Design` `Distributed Systems` `AI Tooling` `Automation`
 
 ---
 
-### 📦 **Projects**
-
-#### DeFi / Engineering
-- **🏦 [Scallop](https://scallop.io)** | [GitHub](https://github.com/scallop-io) — next-gen money market powered by Sui
-
-#### Independent Research
-- **🛸 [Reverse Engineering the Dynamics of UFOs](https://github.com/djchrisssssss/ufo-dynamics-reverse-engineering)** — UFO 動力學之逆向工程：a physics-based assessment of UAP observables, propulsion hypotheses, and the real engineering/material constraints behind advanced aerospace claims ([DOI](https://doi.org/10.5281/zenodo.19138271)) `AI-collaborative`
-- **🌌 [Cosmic Diaspora Hypothesis](https://github.com/djchrisssssss/cosmic-diaspora-hypothesis)** — 宇宙播遷假說：cosmic life diffusion, civilization evolution, and extraterrestrial phenomenon structure hypothesis ([DOI](https://doi.org/10.5281/zenodo.18965614)) `AI-collaborative`
-- **🌀 [Hopfion Ring Lightning Hypothesis](https://github.com/djchrisssssss/hopfion-ring-lightning-hypothesis)** — 霍普離子環閃電假說：reinterpreting ball lightning as a topological ring-shaped plasma soliton ([DOI](https://doi.org/10.5281/zenodo.17510337)) `AI-collaborative`
-- **🧠 [Interdimensional Communication Theory](https://github.com/djchrisssssss/interdimensional-communication-theory)** — 跨維度通訊理論：structural interpretation of the universe, consciousness, and causation ([DOI](https://doi.org/10.5281/zenodo.15664444)) `AI-collaborative`
-- **🛡️ [Taiwan National Strategy](https://github.com/djchrisssssss/taiwan-national-strategy)** — 台灣多領域國家安全戰略：systems-engineering analysis of Taiwan's geostrategic position, semiconductor leverage, critical infrastructure resilience, cognitive defense, and international linkages `AI-collaborative`
-- **🎯 [CCP Cognitive Warfare Deconstruction](https://github.com/djchrisssssss/ccp-cognitive-invade-deconstruction)** — 中共對台認知作戰解構：deconstructing CCP cognitive warfare structure, technology, and operational chains targeting Taiwan `AI-collaborative`
-
-
----
-
-### 📊 **GitHub Stats**
+### GitHub Stats
 
 <p align="center">
   <picture>
@@ -91,13 +79,14 @@ Independent researcher building AI-collaborative research frameworks across **UA
 
 ---
 
-### 🌐 **Links**
+### Links
 [![Website](https://img.shields.io/badge/Scallop.io-011829?style=flat&logo=google-chrome&logoColor=white)](https://scallop.io)
-[![X](https://img.shields.io/badge/@djchrisssssss-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/djchrisssssss)
+[![GitHub Org](https://img.shields.io/badge/Scallop-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/scallop-io)
+[![X](https://img.shields.io/badge/@djchrisssssss-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/djchrisssssss)
 [![Email](https://img.shields.io/badge/kriss%40scallop.io-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kriss@scallop.io)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=djchrisssssss&style=flat-square&color=4DA2FF" />
+  <img src="https://komarev.com/ghpvc/?username=djchrisssssss&style=flat-square&color=4DA2FF" alt="Profile views" />
 </p>
