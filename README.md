@@ -12,19 +12,18 @@ Independent researcher building AI-collaborative research frameworks across **UA
 ---
 
 ### 🧩 **Work Focus**
-- **🏦 DeFi protocol architecture** — separated collateral/lending risk engine, sCoins, veModel, Sui PTB Tool
-- **🛡️ Security engineering** — threat modeling, protocol security, formal logic
-- **🤖 AI research & automation** — LLM agents, autonomous tooling, AI-assisted development pipelines
-- **🛸 Independent physics research** — UAP dynamics reverse engineering, spacetime engineering constraints, plasma topology, astrophysics, and falsifiable hypothesis design
-- **🧠 Cognitive warfare research** — structural deconstruction of information operations, propaganda chains, and defense strategies
+- **🏦 DeFi protocol architecture** — collateral/lending risk engines, sCoins, veModels, and Sui PTB tooling
+- **🛡️ Security engineering** — threat modeling, protocol security, adversarial analysis, and formal reasoning
+- **🤖 AI research & automation** — LLM agents, autonomous tooling, and AI-assisted development pipelines
+- **🔬 Independent research** — physics, strategic systems, and high-uncertainty problem modeling
 
 ---
 
 ### 🔭 **Research Directions**
-- **🛸 UAP / UFO physics** — propulsion hypotheses, spacetime engineering limits, fusion-scale energy gaps, electromagnetic signatures, and sensor-based anomaly analysis
+- **🛸 UAP / anomaly physics** — propulsion hypotheses, spacetime engineering limits, fusion-scale energy gaps, electromagnetic signatures, and sensor-based anomaly analysis
 - **🌌 Astrophysics & civilization models** — cosmic life diffusion, detectability constraints, and structured classification of extraterrestrial phenomena
-- **🌀 Topological plasma systems** — Hopfion-like field structures, ring lightning, and stability questions in nonlinear electromagnetic media
-- **🧭 Cognitive warfare & strategy** — information operation deconstruction, Taiwan resilience, national security systems, and strategic defense modeling
+- **🌀 Topological plasma systems** — Hopfion-like field structures, ring lightning, and stability in nonlinear electromagnetic media
+- **🧭 Cognitive warfare & resilience** — information operation deconstruction, propaganda chains, Taiwan resilience, and strategic defense modeling
 
 ---
 
